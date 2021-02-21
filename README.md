@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Flutter Projects
 - 🌱 I’m currently learning Flutter Development
 - 👯 I’m looking to collaborate on Delta Force Community API 
-- 🤔 I’m looking for help with JAVA
-- 💬 Ask me about JAVA, C++ 11
+- 🤔 I’m looking for help with FLUTTER
+- 💬 Ask me about C++ 11, Dart
 - 📫 How to reach me: smsoumik1608@gmail.com
 - 😄 Pronouns: Think Twice, Code once !!!!
 - ⚡ Fun fact: PHP sucks
