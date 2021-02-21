@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Android Studio Apps
-- 🌱 I’m currently learning Android Development
+- 🔭 I’m currently working on Flutter Projects
+- 🌱 I’m currently learning Flutter Development
 - 👯 I’m looking to collaborate on Delta Force Community API 
 - 🤔 I’m looking for help with JAVA
 - 💬 Ask me about JAVA, C++ 11
