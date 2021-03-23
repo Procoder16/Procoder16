@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=procoder16&label=Profile%20views&color=0e75b6&style=flat" alt="procoder16" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=procoder16" alt="procoder16" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=procoder16&theme=onedark" alt="procoder16" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/soumikm40838957" target="blank"><img src="https://img.shields.io/twitter/follow/soumikm40838957?logo=twitter&style=for-the-badge" alt="soumikm40838957" /></a> </p>
 
