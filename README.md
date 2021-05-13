@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **C++ 11/14, Java, Pub, Dart**
+- 💬 Ask me about **C++ 11/14, Java, Pub, Dart, Flutter**
 
 - 📫 How to reach me **smsoumik1608@gmail.com**
 
