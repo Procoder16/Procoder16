@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/soumikm40838957" target="blank"><img src="https://img.shields.io/twitter/follow/soumikm40838957?logo=twitter&style=for-the-badge" alt="soumikm40838957" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **C++ 11/14, Java, Pub, Dart, Flutter, DSA, Python**
+- 💬 Ask me about **C++ 11/14, Java, Pub, Dart, Flutter, DSA, Python, App Development**
 
 - 📫 How to reach me **smsoumik1608@gmail.com**
 
@@ -33,3 +33,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=procoder16&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="procoder16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=procoder16&show_icons=true&locale=en&theme=tokyonight" alt="procoder16" /></p>
+
