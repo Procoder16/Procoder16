@@ -34,3 +34,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=procoder16&show_icons=true&locale=en&theme=tokyonight" alt="procoder16" /></p>
 
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=procoder16&theme=dracula&hide_border=true" alt="procoder16" /></p>
+
