@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/soumikm40838957" target="blank"><img src="https://img.shields.io/twitter/follow/soumikm40838957?logo=twitter&style=for-the-badge" alt="soumikm40838957" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **C++ 11/14, Java, Pub, Dart, Flutter, DSA, Python, App Development**
 
