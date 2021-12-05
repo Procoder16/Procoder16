@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C++ 11/14, Java, Pub, Dart, Flutter, DSA, Python, App Development**
 
-- 📫 How to reach me **smsoumik1608@gmail.com**
+- 📫 You can reach me through **smsoumik1608@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/soumik-mukherjee-438b451b5/](https://www.linkedin.com/in/soumik-mukherjee-438b451b5/)
 
