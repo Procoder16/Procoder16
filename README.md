@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **C++ 11/14, Java, Pub, Dart, Flutter, DSA, Python, App Development**
+- 💬 Ask me about **C++ 11/14, Java, Pub, Dart, Flutter, DSA, Backend Development, App Development**
 
 - 📫 You can reach me on **smsoumik1608@gmail.com**
 
