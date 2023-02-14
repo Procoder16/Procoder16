@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences on [https://www.linkedin.com/in/soumik-mukherjee-438b451b5/](https://www.linkedin.com/in/soumik-mukherjee-438b451b5/)
 
-- ⚡ Fun fact **: PHP Sucks**
+- ⚡ Fun fact **: I don't dream about my girlfriend, I dream of DSA questions!!!**
 
 <h3 align="left">Connect with me here:</h3>
 <p align="left">
